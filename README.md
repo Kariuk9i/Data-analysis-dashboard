@@ -14,3 +14,5 @@ NVidia data
 
 
 -<a href="https://github.com/Kariuk9i/Data-analysis-dashboard/blob/main/Wasafi_Retail_Client_Project.xlsx">Dataset</a>
+
+##DASHBOARD  -<a href="https://github.com/Kariuk9i/Data-analysis-dashboard/blob/main/kevoarea.PNG">view</a>

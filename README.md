@@ -8,3 +8,5 @@ NVidia data
 [ ] Compare payment methods and customer types.
 [ ] Calculate the return and cancellation rates.
 [ ] Build an interactive dashboard with at least three PivotCharts and two slicers.
+
+https://github.com/Kariuk9i/Data-analysis-dashboard/blob/main/Wasafi_Retail_Client_Project.xlsx
